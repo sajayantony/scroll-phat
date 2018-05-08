@@ -7,7 +7,7 @@ import scrollphat
 
 
 scrollphat.set_brightness(2)
-text = "ACR //build"
+text = "ACR demo"
 
 scrollphat.write_string(text, 11)
 
