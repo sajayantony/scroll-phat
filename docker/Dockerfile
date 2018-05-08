@@ -2,7 +2,7 @@ FROM resin/rpi-raspbian
 MAINTAINER alexellis2@gmail.com
 ENTRYPOINT []
 
-RUN mkdir -p /root/scroll-phat
+#RUN mkdir -p /root/scroll-phat #Ignore makedir for acr-build failure
 WORKDIR /root/scroll-phat/
 
 RUN apt-get update \
