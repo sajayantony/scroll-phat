@@ -7,7 +7,7 @@ import scrollphat
 
 
 scrollphat.set_brightness(2)
-text = "ACR"
+text = "MR. Dang"
 
 scrollphat.write_string(text, 11)
 
