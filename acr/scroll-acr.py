@@ -7,7 +7,7 @@ import scrollphat
 
 
 scrollphat.set_brightness(2)
-text = "Mr. Dang"
+text = "Kevin"
 
 scrollphat.write_string(text, 11)
 
