@@ -7,7 +7,7 @@ import scrollphat
 
 
 scrollphat.set_brightness(2)
-text = "BUILD"
+text = "MOE"
 
 scrollphat.write_string(text, 11)
 
